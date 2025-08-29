@@ -14,7 +14,9 @@
   <li align="left">&nbsp;&nbsp;&nbsp;&nbsp;Visit  <a href="https://www.vinodjangid.site/" target="_blank">Portfolio</a> to know more about me ...</li>
 </ul>
 
-<br><br><br><br><a href="https://wakatime.com/@235697b3-0e7f-4ee0-94ee-e9aec63ba898"><img src="https://wakatime.com/badge/user/235697b3-0e7f-4ee0-94ee-e9aec63ba898.svg" alt="Total time coded since Sep 16 2023" /></a>
+<br><br><br><br><a href="https://wakatime.com/@235697b3-0e7f-4ee0-94ee-e9aec63ba898">
+  <img src="https://wakatime.com/badge/user/235697b3-0e7f-4ee0-94ee-e9aec63ba898.svg?color=9f65ff" alt="Total time coded since Sep 16 2023" />
+</a>
 
 <p align="left"><img width="117" alt="Frame 24" src="https://github.com/vinodjangid07/vinodjangid07/assets/86096184/fe9e5a0d-e48a-4fac-ba66-d6d99c368d54"></p>
 <br>
