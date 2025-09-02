@@ -534,9 +534,34 @@ noscript {
 
 .dp::after,
 .dp::before {
-    height: 300px;
+    height: 80%;
     z-index: -2;
     content: ""
+}
+
+.dp img {
+  position: absolute;
+  width: 100%;
+  height: 80%;
+  object-fit: cover;
+  transition: opacity 0.4s ease-in-out;
+}
+
+.dp img.default {
+    position: absolute;
+    opacity: 1;
+}
+
+.dp img.hover {
+    opacity: 0;
+}
+
+.dp:hover img.default {
+    opacity: 0;
+}
+
+.dp:hover img.hover {
+    opacity: 1;
 }
 
 .main {
